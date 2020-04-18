@@ -1,0 +1,2 @@
+https://gallery.cortanaintelligence.com/Experiment/Text-Analytics-mit-Sentiment-140-Model-Training
+https://gallery.cortanaintelligence.com/Experiment/Text-Analytics-mit-Sentiment-140-Model-Deployment
